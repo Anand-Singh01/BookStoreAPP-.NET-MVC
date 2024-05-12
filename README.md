@@ -1,3 +1,4 @@
+![book](https://github.com/Anand-singh97/BookStoreAPP-.NET-MVC-/assets/132922327/c2452fb8-0c0b-4f0c-9f57-6c0324725056)
 # BookShoppingCartMvc (A basic e-comm system for books shopping) 📚🛒
 
  I upgraded this project to .net 8 recently and uploaded it again.
@@ -9,6 +10,21 @@
    - MS SQL (Database)
    - Entity Framework Core (ORM)
    - Bootstrap (frontend)
+     
+## Features
+
+- **Tech Stack:** .NET 8, MVC Framework, Entity Framework Core, Microsoft SQL Server
+- **Authentication and Authorization:**
+  - Utilizes Identity framework in .NET for user authentication and authorization.
+  - Users can sign up, log in, and enjoy personalized shopping experiences.
+  - Admins have special permissions to perform CRUD operations on books and manage the bookstore.
+- **Shopping Cart:**
+  - Users can add books to their cart, update quantities, and remove items as needed.
+- **Book Management:**
+  - Admins can perform CRUD operations on books, including adding, editing, and deleting book entries.
+  - Supports uploading images for books to enhance the shopping experience.
+- **Database Integration:**
+  - Data is stored in Microsoft SQL Server, providing a robust and scalable solution for managing bookstore data.
 
 
 ## How to run the project? 🌐
